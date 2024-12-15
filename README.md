@@ -11,8 +11,7 @@ Hem backend (Node.js) hem de frontend (React + TailwindCSS) içeren bir başlang
 1. `server` klasörüne gidin:
    ```bash
    cd server
-   Gerekli paketleri yükleyin:
-
+   
 Gerekli paketleri yükleyin:
 ```bash
 npm install
